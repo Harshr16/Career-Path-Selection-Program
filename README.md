@@ -7,6 +7,7 @@ Input:
 
 When prompted, enter 0 if you are a fresher or 1 if you are experienced.
 Based on your status, follow the instructions to choose a field by entering the corresponding number.
+
 Output:
 
 The program will guide you through the learning path based on your chosen field.
